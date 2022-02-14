@@ -1,5 +1,6 @@
 # MPP Detector
-The purpose of this API is to detect via machine learning algorithms some key features
+The purpose of this API is to detect via Machine Learning algorithms some key features about a user.
+Disclaimer: this project is for educational purposes only within the company Mon Petit Placement and is not used in production.
 
 ## HOWTO BUILD
 `docker build -t mpp-detector .`
