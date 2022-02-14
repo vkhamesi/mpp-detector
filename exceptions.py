@@ -1,0 +1,2 @@
+class BadEntryError(Exception):
+    pass
